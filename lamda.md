@@ -5,7 +5,7 @@
 
 * [Introduction](#introduction)
 * ES6 New Features
-    * [let](#21-let)
+    * [let](#let)
     * [let vs var](#22-let-vs-var)
     * [const](#23-const)
   
